@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "64D6784A0DA9E4BCC91A0F44FB3AC9D71D79E2A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 0,
+    "6116060B9B43ED41429AE056D680B0BE4D4D9659" : 0,
+    "64D6784A0DA9E4BCC91A0F44FB3AC9D71D79E2A7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C78A62C6-85E5-4351-84C1-B57D27C8938E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "..\/..\/addons\/ofxCv",
+    "6116060B9B43ED41429AE056D680B0BE4D4D9659" : "..\/..\/addons\/ofxPS3EyeGrabber",
+    "64D6784A0DA9E4BCC91A0F44FB3AC9D71D79E2A7" : "ofxCVPSeyeCal\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ofxCVPSeyeCal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ofxCVPSeyeCal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxCv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tenderbolton\/ofxPSEyeGrabber_Barcelona.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6116060B9B43ED41429AE056D680B0BE4D4D9659"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tenderbolton\/PSEyeCalibration_Barcelona.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "64D6784A0DA9E4BCC91A0F44FB3AC9D71D79E2A7"
+    }
+  ]
+}
